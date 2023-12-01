@@ -1,15 +1,15 @@
 {
   "Version": 1,
-  "Hash": "iAk4MXC8drsY9zuw4x0+wZxuD6UtW2Ar+esp7hVISxE=",
-  "Source": "MudBlazorTemplates1",
+  "Hash": "u57tng4JJwVbAP7J/n2LnATu+MYV3YjuT2bi4GSVhHE=",
+  "Source": "EmotesForTeam",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "MudBlazorTemplates1\\wwwroot",
-      "Source": "MudBlazorTemplates1",
+      "Name": "EmotesForTeam\\wwwroot",
+      "Source": "EmotesForTeam",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
@@ -94,7 +94,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.boot.json",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -113,7 +113,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -132,7 +132,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.25.8xfrc70qlj.js",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -151,7 +151,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.timezones.blat",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -170,7 +170,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.wasm",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -188,8 +188,46 @@
       "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.25\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.dll",
+      "SourceId": "EmotesForTeam",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EmotesForTeam.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\EmotesForTeam.dll"
+    },
+    {
+      "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.pdb",
+      "SourceId": "EmotesForTeam",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EmotesForTeam.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\EmotesForTeam.pdb"
+    },
+    {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -208,7 +246,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -227,7 +265,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -246,7 +284,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -265,7 +303,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -284,7 +322,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -303,7 +341,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -322,7 +360,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -341,7 +379,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -360,7 +398,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -379,7 +417,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Abstractions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -398,7 +436,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Binder.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -417,7 +455,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -436,7 +474,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.FileExtensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -455,7 +493,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Configuration.Json.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -474,7 +512,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -493,7 +531,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -512,7 +550,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -531,7 +569,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Physical.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -550,7 +588,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -569,7 +607,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -588,7 +626,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -607,7 +645,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -626,7 +664,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -645,7 +683,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -664,7 +702,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -683,7 +721,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -702,7 +740,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -721,7 +759,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -740,7 +778,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Win32.Registry.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -759,7 +797,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\mscorlib.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -778,7 +816,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazor.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -796,46 +834,8 @@
       "OriginalItemSpec": "C:\\Users\\Charles\\.nuget\\packages\\mudblazor\\6.0.13\\lib\\net6.0\\MudBlazor.dll"
     },
     {
-      "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.dll",
-      "SourceId": "MudBlazorTemplates1",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/MudBlazorTemplates1.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\MudBlazorTemplates1.dll"
-    },
-    {
-      "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.pdb",
-      "SourceId": "MudBlazorTemplates1",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/MudBlazorTemplates1.pdb",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "WasmResource",
-      "AssetTraitValue": "symbol",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\MudBlazorTemplates1.pdb"
-    },
-    {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\netstandard.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -854,7 +854,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.AppContext.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -873,7 +873,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Buffers.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -892,7 +892,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Concurrent.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -911,7 +911,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -930,7 +930,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Immutable.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -949,7 +949,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.NonGeneric.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -968,7 +968,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -987,7 +987,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.Annotations.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1006,7 +1006,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1025,7 +1025,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1044,7 +1044,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1063,7 +1063,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1082,7 +1082,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.TypeConverter.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1101,7 +1101,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Configuration.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1120,7 +1120,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Console.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1139,7 +1139,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1158,7 +1158,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.Common.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1177,7 +1177,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1196,7 +1196,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1215,7 +1215,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Contracts.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1234,7 +1234,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Debug.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1253,7 +1253,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1272,7 +1272,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1291,7 +1291,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Process.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1310,7 +1310,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.StackTrace.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1329,7 +1329,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1348,7 +1348,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tools.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1367,7 +1367,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1386,7 +1386,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1405,7 +1405,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1424,7 +1424,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1443,7 +1443,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Drawing.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1462,7 +1462,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Dynamic.Runtime.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1481,7 +1481,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Formats.Asn1.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1500,7 +1500,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Calendars.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1519,7 +1519,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1538,7 +1538,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Globalization.Extensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1557,7 +1557,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.Brotli.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1576,7 +1576,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1595,7 +1595,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.FileSystem.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1614,7 +1614,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.ZipFile.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1633,7 +1633,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1652,7 +1652,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.AccessControl.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1671,7 +1671,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1690,7 +1690,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1709,7 +1709,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1728,7 +1728,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.FileSystem.Watcher.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1747,7 +1747,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1766,7 +1766,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1785,7 +1785,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1804,7 +1804,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1823,7 +1823,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1842,7 +1842,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1861,7 +1861,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1880,7 +1880,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Expressions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1899,7 +1899,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Parallel.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1918,7 +1918,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Linq.Queryable.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1937,7 +1937,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1956,7 +1956,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1975,7 +1975,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -1994,7 +1994,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Http.Json.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2013,7 +2013,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.HttpListener.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2032,7 +2032,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Mail.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2051,7 +2051,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NameResolution.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2070,7 +2070,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2089,7 +2089,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Ping.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2108,7 +2108,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2127,7 +2127,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Quic.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2146,7 +2146,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2165,7 +2165,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Security.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2184,7 +2184,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.ServicePoint.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2203,7 +2203,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Sockets.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2222,7 +2222,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebClient.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2241,7 +2241,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebHeaderCollection.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2260,7 +2260,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebProxy.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2279,7 +2279,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2298,7 +2298,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2317,7 +2317,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2336,7 +2336,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2355,7 +2355,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ObjectModel.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2374,7 +2374,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2393,7 +2393,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.DataContractSerialization.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2412,7 +2412,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Runtime.InteropServices.JavaScript.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2431,7 +2431,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Uri.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2450,7 +2450,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2469,7 +2469,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Xml.Linq.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2488,7 +2488,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.DispatchProxy.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2507,7 +2507,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2526,7 +2526,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2545,7 +2545,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2564,7 +2564,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2583,7 +2583,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2602,7 +2602,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Metadata.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2621,7 +2621,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2640,7 +2640,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.TypeExtensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2659,7 +2659,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Reader.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2678,7 +2678,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.ResourceManager.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2697,7 +2697,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Resources.Writer.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2716,7 +2716,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2735,7 +2735,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2754,7 +2754,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2773,7 +2773,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Extensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2792,7 +2792,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Handles.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2811,7 +2811,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2830,7 +2830,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2849,7 +2849,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Intrinsics.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2868,7 +2868,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Loader.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2887,7 +2887,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2906,7 +2906,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2925,7 +2925,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2944,7 +2944,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2963,7 +2963,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -2982,7 +2982,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Xml.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3001,7 +3001,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.AccessControl.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3020,7 +3020,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Claims.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3039,7 +3039,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3058,7 +3058,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3077,7 +3077,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Csp.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3096,7 +3096,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Encoding.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3115,7 +3115,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3134,7 +3134,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.Primitives.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3153,7 +3153,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.X509Certificates.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3172,7 +3172,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3191,7 +3191,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3210,7 +3210,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Principal.Windows.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3229,7 +3229,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.SecureString.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3248,7 +3248,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3267,7 +3267,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3286,7 +3286,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.CodePages.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3305,7 +3305,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3324,7 +3324,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encoding.Extensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3343,7 +3343,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3362,7 +3362,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Json.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3381,7 +3381,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.RegularExpressions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3400,7 +3400,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Channels.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3419,7 +3419,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3438,7 +3438,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Overlapped.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3457,7 +3457,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Dataflow.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3476,7 +3476,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3495,7 +3495,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3514,7 +3514,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Parallel.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3533,7 +3533,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Thread.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3552,7 +3552,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.ThreadPool.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3571,7 +3571,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3590,7 +3590,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3609,7 +3609,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Transactions.Local.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3628,7 +3628,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ValueTuple.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3647,7 +3647,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3666,7 +3666,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Web.HttpUtility.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3685,7 +3685,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Windows.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3704,7 +3704,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3723,7 +3723,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Linq.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3742,7 +3742,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.ReaderWriter.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3761,7 +3761,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.Serialization.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3780,7 +3780,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XDocument.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3799,7 +3799,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3818,7 +3818,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlSerializer.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3837,7 +3837,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3856,7 +3856,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.XDocument.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3875,7 +3875,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\WindowsBase.dll",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3894,7 +3894,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\0u55ewrr5l.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3913,7 +3913,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\10gbahrbnz.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3932,7 +3932,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\16asipyrpr.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3951,7 +3951,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1ag8kr27ml.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3970,7 +3970,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1cacy4axjq.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -3989,7 +3989,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1ckt39f6ze.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4008,7 +4008,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1jko5wf1ye.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4027,7 +4027,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1pr0faw0do.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4046,7 +4046,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1sxllc8xu6.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4065,7 +4065,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\1ulsy1rbnq.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4084,7 +4084,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\22dv9ugfpx.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4103,7 +4103,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\23iecpyqyc.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4122,7 +4122,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\2582ps72rh.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4141,7 +4141,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\27rbdh3y8l.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4160,7 +4160,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\2bdeovwce3.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4179,7 +4179,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\2s7u6r1zrf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4198,7 +4198,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\2tn72ac4ve.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4217,7 +4217,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\31szabxipt.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4236,7 +4236,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\3cmaol0dg6.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4255,7 +4255,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\3i5rsgdnf0.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4274,7 +4274,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\3y5cumnzgk.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4293,7 +4293,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\454nhzp8pb.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4312,7 +4312,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\459sb7ooqv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4330,27 +4330,8 @@
       "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Extensions.dll"
     },
     {
-      "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\45xo7h8mkr.gz",
-      "SourceId": "MudBlazorTemplates1",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/MudBlazorTemplates1.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.pdb"
-    },
-    {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\46aa8qzocz.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4369,7 +4350,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\4blmyfdlpf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4388,7 +4369,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\4dn9wz2y9w.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4407,7 +4388,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\4f6v4k2u6a.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4426,7 +4407,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\4q2u1z0zb8.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4445,7 +4426,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\4z9qbndw4d.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4464,7 +4445,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\52q4nsjxj9.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4483,7 +4464,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\57gnrayob1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4502,7 +4483,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\599fdur3sp.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4521,7 +4502,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5j6fk34hu1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4540,7 +4521,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5k18dh8vjb.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4559,7 +4540,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5kypa5prmc.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4578,7 +4559,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5nb81vnz9k.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4597,7 +4578,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5pklv4qfk2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4616,7 +4597,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5spxxceu3t.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4635,7 +4616,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5tgfqq4lun.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4654,7 +4635,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5umw9mal84.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4673,7 +4654,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\5xcljbzbtd.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4692,7 +4673,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\640hyumc4f.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4711,7 +4692,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\65rlf657iu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4729,8 +4710,27 @@
       "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll"
     },
     {
+      "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6daz3lh42v.gz",
+      "SourceId": "EmotesForTeam",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EmotesForTeam.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.pdb"
+    },
+    {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6ew2nfelq2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4749,7 +4749,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6l19u1i112.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4768,7 +4768,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6me8p7t8a1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4787,7 +4787,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6s60mz914u.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4806,7 +4806,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6xf47fdbed.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4825,7 +4825,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6yjy2i16zx.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4844,7 +4844,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\6z5r20kksu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4863,7 +4863,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\7080loxwgs.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4882,7 +4882,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\74egyyk9i7.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4901,7 +4901,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\7hw46edr2p.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4920,7 +4920,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\7r754b4yq0.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4939,7 +4939,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\86zouzlm7i.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4958,7 +4958,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8avv3ypzs6.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4977,7 +4977,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8gowmoa6ea.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -4996,7 +4996,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8owy3574yf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5015,7 +5015,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8rhfrj0dmk.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5034,7 +5034,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8wdl72n56v.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5053,7 +5053,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8x7pc4ml4l.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5072,7 +5072,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\8xfrc70qlj.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5091,7 +5091,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\90ddz0jcvr.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5110,7 +5110,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\9ncfij1r3l.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5129,7 +5129,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\9u6rgsoat6.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5148,7 +5148,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\9zdw9v5338.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5167,7 +5167,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\a4awwdd1ks.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5186,7 +5186,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\a6hd6mjk0r.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5205,7 +5205,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\aagrdzojp3.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5224,7 +5224,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ajdp3qg4vv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5243,7 +5243,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\aob2tnn9o2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5262,7 +5262,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\b3ctdmptjd.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5281,7 +5281,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\bd48pg02py.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5300,7 +5300,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\bd9e24iq60.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5319,7 +5319,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\brr5mqfh1c.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5338,7 +5338,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\bvz6r6jee8.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5357,7 +5357,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\c1xot4gfei.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5376,7 +5376,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\cgy7ahgbr3.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5395,7 +5395,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\cn4usfwpz0.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5414,7 +5414,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\d3c909vmbb.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5433,7 +5433,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\d7jhgfk3fu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5452,7 +5452,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\da0dwthi0d.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5471,7 +5471,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\dp1solnohr.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5490,7 +5490,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\dy5ony4shz.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5509,7 +5509,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\e0lb9455km.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5528,7 +5528,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\e9bj0mcg2x.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5547,7 +5547,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\efuzr4qq81.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5566,7 +5566,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ehookrp79q.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5585,7 +5585,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\eotfgci627.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5604,7 +5604,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\eux6tiigju.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5623,7 +5623,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\f3d9bdqqqi.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5642,7 +5642,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\f704v51f1t.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5661,7 +5661,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\f7ax3h55ca.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5680,7 +5680,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\fbbb8v0jkk.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5699,7 +5699,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\fqxw2cdubv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5718,7 +5718,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\g3y7dl7uep.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5737,7 +5737,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\gbqghy024j.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5756,7 +5756,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\gkiz5bpdjp.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5775,7 +5775,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\grpxrhljyf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5794,7 +5794,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\hdq7jm39rt.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5813,7 +5813,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\hhxef4z05m.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5832,7 +5832,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\hrpr2kc6j4.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5851,7 +5851,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\hug88e112b.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5870,7 +5870,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i08xbilvji.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5889,7 +5889,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i0tt1wt2c9.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5908,7 +5908,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i54yrzcgi8.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5927,7 +5927,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i65jc1pk30.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5946,7 +5946,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i8a6nllgk2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5965,7 +5965,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\i9ucq1kpjh.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -5984,7 +5984,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ifi91ix1xu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6003,7 +6003,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ijpc4lwnid.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6022,7 +6022,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\iu7hynxblr.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6041,7 +6041,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\iwnw1q9h86.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6060,7 +6060,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\j1p5hwf37c.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6079,7 +6079,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\jdo2dn9vgq.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6098,7 +6098,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\jlw36oc2gu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6117,7 +6117,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\jqrpvhh991.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6136,7 +6136,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\jt16lzw388.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6155,7 +6155,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\k1vd96n7n8.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6174,7 +6174,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\k5rwkxsygc.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6193,7 +6193,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\kcf09yceuc.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6212,7 +6212,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\khpxmec3au.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6231,7 +6231,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\kz998kpufs.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6250,7 +6250,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\l954aso3qb.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6269,7 +6269,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ldfw8fa0pi.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6288,7 +6288,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\lmcplx5cjv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6307,7 +6307,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\lob12ujc1h.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6326,7 +6326,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\lt6czvjfsn.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6345,7 +6345,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\lvqjwhh36d.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6364,7 +6364,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\m8q0qydko1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6383,7 +6383,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\m8u7cqjkmx.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6402,7 +6402,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\mdcuuqnhem.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6421,7 +6421,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\miczfs2lpp.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6440,7 +6440,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\mwdiqn25j0.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6459,7 +6459,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\nfe98yydwv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6478,7 +6478,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\npb3r7m0w9.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6497,7 +6497,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\nrhy1c2ayu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6516,7 +6516,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\nyzx0syxu4.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6535,7 +6535,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ocisk8izfu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6554,7 +6554,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\of2i24khem.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6573,7 +6573,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\of80jqi6bv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6592,7 +6592,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ogt65pa0rm.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6611,7 +6611,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\p5uswnu85p.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6630,7 +6630,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\p9y05k8gvw.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6649,7 +6649,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\pao3owrilc.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6668,7 +6668,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\pfdn7nsq0w.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6687,7 +6687,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\piqxe9gkj2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6706,7 +6706,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\pve8dpsu6i.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6725,7 +6725,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\pwbhayaeke.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6744,7 +6744,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\pyysmlcuzn.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6763,7 +6763,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\qaoijk29jb.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6782,7 +6782,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\qeslmgonqu.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6801,7 +6801,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\qh5m3ilacp.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6820,7 +6820,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\qyzf66txdf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6839,7 +6839,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\rbdtw4jl4d.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6858,7 +6858,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\rja9k1w0hy.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6877,7 +6877,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\rr0towphy4.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6896,7 +6896,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\s6ra658zvk.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6915,7 +6915,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\s6rgtdmrl2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6934,7 +6934,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\s9fr1kxjcs.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6953,7 +6953,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\sads3kzrwv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6971,8 +6971,27 @@
       "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll"
     },
     {
+      "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\sgp0xd2lwq.gz",
+      "SourceId": "EmotesForTeam",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/EmotesForTeam.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\EmotesForTeam.dll"
+    },
+    {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\t3y61nse8a.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -6991,7 +7010,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\t7vmi3zd5v.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7010,7 +7029,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\t8ic1ajhmw.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7029,7 +7048,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\t9g1au50qv.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7048,7 +7067,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\td88uvm2he.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7067,7 +7086,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\u1vqrqxz31.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7086,7 +7105,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ucnrut24e2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7105,7 +7124,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\uji5zuu4c3.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7124,7 +7143,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ujo8inr7we.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7143,7 +7162,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\um54ox43lf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7162,7 +7181,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\una52c41k2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7181,7 +7200,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\v11ph9acpq.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7200,7 +7219,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\v7i7jwxqbg.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7219,7 +7238,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\viidiqivhe.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7238,7 +7257,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\vjfvvxnjka.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7257,7 +7276,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\vk81sf4uwx.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7276,7 +7295,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\vkgudv2xbe.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7295,7 +7314,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\vvi67vuoa9.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7314,7 +7333,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\waja1s79xr.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7333,7 +7352,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\wcnqicn1fe.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7352,7 +7371,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\wh2opeh53m.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7370,27 +7389,8 @@
       "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\wivepohuek.gz",
-      "SourceId": "MudBlazorTemplates1",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/MudBlazorTemplates1.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\_framework\\MudBlazorTemplates1.dll"
-    },
-    {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\wykh23lz5d.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7409,7 +7409,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\wyq0an0d9s.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7428,7 +7428,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\x2holanfg1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7447,7 +7447,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\x3dedsxx61.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7466,7 +7466,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\xczgw80y33.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7485,7 +7485,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\xjd959w04t.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7504,7 +7504,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\xmitwkn00s.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7523,7 +7523,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\xowy6bqksi.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7542,7 +7542,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\y56rixn1g2.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7561,7 +7561,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\y8x0cpsr7l.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7580,7 +7580,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ycs6saayb1.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7599,7 +7599,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ycykvmplcx.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7618,7 +7618,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\yq9odr9izf.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7637,7 +7637,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\ytpmb5aygn.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7656,7 +7656,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\zfpmk57lm6.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7675,7 +7675,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\obj\\Debug\\net6.0\\compressed\\zok6kqd8p5.gz",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Computed",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
@@ -7694,7 +7694,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\.eslintrc.json",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
@@ -7713,7 +7713,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\css\\site.css",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
@@ -7732,7 +7732,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\css\\tailwind.css",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
@@ -7751,7 +7751,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\favicon.ico",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
@@ -7769,8 +7769,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\Images\\svg\\Sign in with Microsoft Button.svg",
+      "SourceId": "EmotesForTeam",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Images/svg/Sign in with Microsoft Button.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\svg\\Sign in with Microsoft Button.svg"
+    },
+    {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\index.html",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
@@ -7789,7 +7808,7 @@
     },
     {
       "Identity": "D:\\GIT\\EmotesForTeam\\wwwroot\\sample-data\\weather.json",
-      "SourceId": "MudBlazorTemplates1",
+      "SourceId": "EmotesForTeam",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\GIT\\EmotesForTeam\\wwwroot\\",
       "BasePath": "/",
