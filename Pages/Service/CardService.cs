@@ -17,7 +17,7 @@ namespace EmotesForTeam.Services
         public async Task<List<Card>> GetCardsAsync(int page, int size)
         {
             // Replace with your actual API endpoint
-            var response = await _httpClient.GetFromJsonAsync<List<Card>>($"api/cards?page={page}&size={size}");
+            var response = await _httpClient.GetFromJsonAsync<List<Card>>($"api/Cards?page={page}&size={size}");
             return response ?? new List<Card>();
         }
     }
