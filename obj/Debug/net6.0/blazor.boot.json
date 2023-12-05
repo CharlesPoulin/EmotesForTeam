@@ -1,7 +1,7 @@
 {
-  "entryAssembly": "MudBlazorTemplates1",
+  "entryAssembly": "EmotesForTeam",
   "resources": {
-    "hash": "sha256-lFGYe/7ElJ/aOTF0sfplGgf6BIEyeHxpqYc3LZS6Wtg=",
+    "hash": "sha256-P6JnwNVoWoRusNWQRw80xY8TUWqlbl7NTdYkfGGsb08=",
     "runtime": {
       "dotnet.6.0.25.8xfrc70qlj.js": "sha256-1jUGCCSGH9JWhkqbHdQk8JBjBI8K/VC63En5zlypVps=",
       "dotnet.timezones.blat": "sha256-KsGUR9nqtXb3Hy6IrNlnc1HoSS+AFlsXTX9rq4oChtA=",
@@ -201,10 +201,10 @@
       "mscorlib.dll": "sha256-veli+XvWHzkA3s4t4DKI+XiyNMpfHQjiO002+ExANkU=",
       "netstandard.dll": "sha256-O9JhHo5KqxkmwmapuxuhG/iMRV7RHcrCDO9z+yv+8yI=",
       "System.Private.CoreLib.dll": "sha256-6rKu8tPdUGsvbSpesoNMVzbx7bNqPRMPV34eI7vSYaQ=",
-      "MudBlazorTemplates1.dll": "sha256-Qu4DdhFNjSkpSUkwh09POR/Zi6PlH4A37mFnibIQZ/U="
+      "EmotesForTeam.dll": "sha256-lYrRPqLGw77jQTBWuMifH8x/XFjCC1YQwO7Jiy4A6Y8="
     },
     "pdb": {
-      "MudBlazorTemplates1.pdb": "sha256-8Q5zSuVV1wdagGOcODxuGJhUwNEo18EWiuMMj5IYmYM="
+      "EmotesForTeam.pdb": "sha256-fDgjlFHLEpMchGSQj7KIV0NW9hWXwVLQdWuv2/TEvxA="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

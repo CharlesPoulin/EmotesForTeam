@@ -1994,9 +1994,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\EmotesForTeam\\MudBlazorTemplates1.csproj",
-      "projectName": "MudBlazorTemplates1",
-      "projectPath": "D:\\GIT\\EmotesForTeam\\MudBlazorTemplates1.csproj",
+      "projectUniqueName": "D:\\GIT\\EmotesForTeam\\EmotesForTeam.csproj",
+      "projectName": "EmotesForTeam",
+      "projectPath": "D:\\GIT\\EmotesForTeam\\EmotesForTeam.csproj",
       "packagesPath": "C:\\Users\\Charles\\.nuget\\packages\\",
       "outputPath": "D:\\GIT\\EmotesForTeam\\obj\\",
       "projectStyle": "PackageReference",
